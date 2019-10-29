@@ -30,6 +30,6 @@ public class JobExecutorApplication extends SpringBootServletInitializer {
 	@Bean
     public PlatformTransactionManager txManager(DataSource dataSource) {
         return new DataSourceTransactionManager(dataSource);
-
+111111111111111111111
     }
 }
