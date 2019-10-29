@@ -1,0 +1,7 @@
+com\xxl\job\executor\bean\SpringTaskExecutor.class
+com\xxl\job\executor\dao\DemoDao.class
+com\xxl\job\executor\jobhandler\ShardingJobHandler.class
+com\xxl\job\executor\jobhandler\DemoJobHandler.class
+com\xxl\job\executor\config\XxlJobConfig.class
+com\xxl\job\executor\service\DemoService.class
+com\xxl\job\executor\main\JobExecutorApplication.class
